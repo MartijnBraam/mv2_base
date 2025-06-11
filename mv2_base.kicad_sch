@@ -14740,7 +14740,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "510"
 			(at 158.75 49.5299 0)
 			(effects
 				(font
@@ -14768,6 +14768,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 156.21 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25123"
 			(at 156.21 48.26 0)
 			(effects
 				(font
@@ -16169,7 +16178,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "510"
 			(at 158.75 115.5699 0)
 			(effects
 				(font
@@ -16197,6 +16206,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 156.21 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25123"
 			(at 156.21 114.3 0)
 			(effects
 				(font
@@ -18681,7 +18699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "510"
 			(at 158.75 76.1999 0)
 			(effects
 				(font
@@ -18709,6 +18727,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 156.21 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25123"
 			(at 156.21 74.93 0)
 			(effects
 				(font
