@@ -12217,7 +12217,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25768"
+		(property "LCSC" "C25764"
 			(at 102.87 49.53 0)
 			(effects
 				(font
@@ -14465,7 +14465,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C21120"
+		(property "LCSC" "C16772"
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -14507,7 +14507,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5pF"
+		(property "Value" "10pF"
 			(at 86.36 71.628 90)
 			(effects
 				(font
@@ -14542,7 +14542,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15850"
+		(property "LCSC" "C32949"
 			(at 86.36 68.58 0)
 			(effects
 				(font
@@ -14968,7 +14968,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "24k"
+		(property "Value" "22k"
 			(at 104.648 62.2373 0)
 			(effects
 				(font
@@ -15004,7 +15004,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25764"
+		(property "LCSC" "C25768"
 			(at 102.87 60.96 0)
 			(effects
 				(font
